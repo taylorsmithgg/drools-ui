@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+#top-left {
+    height: 550px;
+    overflow:scroll;
+}
+#mynetwork {
+    border: 1px solid lightgray;
+    height: 750px;
+}
+#editor {
+    height: 540px;
+}
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+body { padding-top: 70px; }
